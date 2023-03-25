@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(91, 184, 171);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container h1{
+    color: white;
+}
+
+table{
+    border-spacing: 0px;
+}
+
+.header{
+    background-color: rgb(181, 247, 238);
+}
+
+.header th{
+    color:rgb(66, 133, 124);
+    padding: 10px 20px;
+}
+
+.container{
+    background-color: rgb(66, 133, 124);
+    text-align: center;
+    border-radius: 20px;
+}
+
+.container table{
+    margin:0 auto;
+}
+
+.values td{
+    font-weight: bold;
+    color:rgb(83, 133, 126);
+    padding: 10px 70px;
+    background-color: white;
+}
+
+.dark td{
+    background-color: rgb(219, 247, 242);;
+}
+
+.border-radiusing1{
+    border-radius: 0 0 0 20px;
+}
+.border-radiusing2{
+    border-radius:  0 0 20px 0;
+}
